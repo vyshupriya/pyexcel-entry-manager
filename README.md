@@ -1,1 +1,1 @@
-# pyexcel-entry-manager
+# pyexcel-entry
